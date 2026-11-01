@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://prasiddha-mainali.onrender.com/</loc></url>
-  <url><loc>https://prasiddha-mainali.onrender.com/blogs.html</loc></url>
-  <url><loc>https://prasiddha-mainali.onrender.com/blogs/noai-preparation.html</loc></url>
-  <url><loc>https://prasiddha-mainali.onrender.com/blogs/lumiere-grant.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/model-trust-issues.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/dear-gpu.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/accuracy-is-not-the-whole-story.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/prototype-to-product.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/readme-is-an-interface.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/small-experiments.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/noai-preparation.html</loc></url>
+<url><loc>https://prasiddha-mainali.onrender.com/blogs/lumiere-grant.html</loc></url>
 </urlset>

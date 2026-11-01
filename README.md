@@ -12,8 +12,8 @@ Run `python -m http.server 8000` from this repository, then open http://localhos
 - `style.css`: shared design and responsive layouts
 - `app.js`: project dialogs, clipboard controls, and interactive 3D sculpture
 - `icon.svg`: current favicon
-- `blogs.html`: published writing index
-- `blogs/`: two published articles
+- `blogs.html`: filterable journal index
+- `blogs/`: eight articles
 - `writing.css`: article layouts
 - `sitemap.xml`: sitemap for the existing Render domain
 
@@ -23,12 +23,19 @@ This is a static website with no build step. Publish the repository root (`.`), 
 
 ## Features
 
-- Perspective-projected 3D torus-knot sculpture with drag rotation and motion controls
+- WebGL-rendered reflective 3D neural core with drag rotation and motion controls
 - Reduced-motion support and responsive layouts
 - Accessible project dialogs and working email/social links
 - Updated National Rank 2 and IOAI Honorable Mention
-- Preserved articles with current branding and repaired links
+- Two preserved articles and six new essays / humor pieces with category filters and reading progress
 
 Project artwork is illustrative, not product screenshots. Nidaan is credited as a collaborative/forked project. Contact uses email links rather than an unconnected form.
 
 Previous website files remain recoverable through Git history.
+
+
+## Interactive edition
+
+`experience.css` provides the visual upgrade. `scene.js` renders the interactive 3D core with a static fallback when WebGL is unavailable. `experience.js` controls the skippable session-based entrance, story filters, reading progress, and original procedural ambient synth audio. Audio is off by default and requires a click to enable. Reduced-motion preferences skip the entrance and pause automatic 3D rotation. The audio pauses when the tab is hidden.
+
+The two humorous posts are explicitly fictional. New essays do not introduce invented personal experiences or achievements.
