@@ -1,33 +1,34 @@
-# Personal Portfolio Website
+# Prasiddha Mainali — Portfolio
 
-This is my personal portfolio website designed to showcase my work, skills, and involvement in various clubs and initiatives. It serves as a hub for my projects, achievements, and experiences in tech, social service, and interdisciplinary fields.
+Professional portfolio with an interactive 3D neural sculpture, selected AI projects, experience, awards, and writing.
 
-## 📌 Features
-- Projects with live previews and source code links  
-- Skills section with tools and technologies I use  
-- Resume/CV section
-- Blog/articles section  
-- Club involvement and leadership roles  
-- Contact form and social media links  
+## Preview locally
 
-## 🛠️ Built With
-- HTML, CSS, JavaScript   
+Run `python -m http.server 8000` from this repository, then open http://localhost:8000.
 
-## 🧠 What I Learned
-- Building responsive UIs
-- Showcasing diverse roles from one platform
-- Effective personal branding through design and content
+## Structure
 
-## 🚀 Future Plans 
-- Integrate project filters and search  
-- Include animations and better responsiveness
+- `index.html`: homepage, experience, awards, contact links
+- `style.css`: shared design and responsive layouts
+- `app.js`: project dialogs, clipboard controls, and interactive 3D sculpture
+- `icon.svg`: current favicon
+- `blogs.html`: published writing index
+- `blogs/`: two published articles
+- `writing.css`: article layouts
+- `sitemap.xml`: sitemap for the existing Render domain
 
-## 🤝 Contributing
-Pull requests are welcome if you have suggestions for improvement.
+## Deployment
 
-## 📫 Contact
-Feel free to reach out through the contact form on the site or via prasiddha.mainali2@gmail.com.
+This is a static website with no build step. Publish the repository root (`.`), not a `dist` folder. The existing root layout is preserved for Render and GitHub Pages. No server, npm installation, API keys, or secrets are required. Google Fonts is optional; system fonts provide fallbacks.
 
----
+## Features
 
-> “Not just a portfolio, but a reflection of work that speaks louder than words.”
+- Perspective-projected 3D torus-knot sculpture with drag rotation and motion controls
+- Reduced-motion support and responsive layouts
+- Accessible project dialogs and working email/social links
+- Updated National Rank 2 and IOAI Honorable Mention
+- Preserved articles with current branding and repaired links
+
+Project artwork is illustrative, not product screenshots. Nidaan is credited as a collaborative/forked project. Contact uses email links rather than an unconnected form.
+
+Previous website files remain recoverable through Git history.
