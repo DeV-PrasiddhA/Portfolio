@@ -34,8 +34,10 @@ Project artwork is illustrative, not product screenshots. Nidaan is credited as 
 Previous website files remain recoverable through Git history.
 
 
-## Interactive edition
+## Premium interactive edition
 
-`experience.css` provides the visual upgrade. `scene.js` renders the interactive 3D core with a static fallback when WebGL is unavailable. `experience.js` controls the skippable session-based entrance, story filters, reading progress, and original procedural ambient synth audio. Audio is off by default and requires a click to enable. Reduced-motion preferences skip the entrance and pause automatic 3D rotation. The audio pauses when the tab is hidden.
+The original charcoal, ivory, and muted-gold visual design is restored. A single full-screen WebGL neural field continues behind the landing screen and portfolio, with reduced-motion support, a motion toggle, and a static fallback. The field is an abstract brain-like geometry, not an anatomical model.
 
-The two humorous posts are explicitly fictional. New essays do not introduce invented personal experiences or achievements.
+Audio is enabled by default for new sessions, with a remembered session mute preference. Browsers that restrict autoplay start it on the first click/key interaction; the landing offers a direct listen button as well. Two original procedurally composed scores use different tempos, harmonies, and patterns, with a crossfade when entering or replaying the introduction. Volume and mute controls remain accessible, and audio suspends in hidden tabs. No external audio downloads or services are required.
+
+The eight-article journal is retained. The two humorous posts are fictional.
